@@ -1,0 +1,14 @@
+C:\Users\Jeff\SocialN\SocialN.API\bin\Debug\netcoreapp2.1\SocialN.API.deps.json
+C:\Users\Jeff\SocialN\SocialN.API\bin\Debug\netcoreapp2.1\SocialN.API.runtimeconfig.json
+C:\Users\Jeff\SocialN\SocialN.API\bin\Debug\netcoreapp2.1\SocialN.API.runtimeconfig.dev.json
+C:\Users\Jeff\SocialN\SocialN.API\bin\Debug\netcoreapp2.1\SocialN.API.dll
+C:\Users\Jeff\SocialN\SocialN.API\bin\Debug\netcoreapp2.1\SocialN.API.pdb
+C:\Users\Jeff\SocialN\SocialN.API\obj\Debug\netcoreapp2.1\SocialN.API.csprojAssemblyReference.cache
+C:\Users\Jeff\SocialN\SocialN.API\obj\Debug\netcoreapp2.1\SocialN.API.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\SocialN\SocialN.API\obj\Debug\netcoreapp2.1\SocialN.API.RazorAssemblyInfo.cache
+C:\Users\Jeff\SocialN\SocialN.API\obj\Debug\netcoreapp2.1\SocialN.API.RazorAssemblyInfo.cs
+C:\Users\Jeff\SocialN\SocialN.API\obj\Debug\netcoreapp2.1\SocialN.API.AssemblyInfoInputs.cache
+C:\Users\Jeff\SocialN\SocialN.API\obj\Debug\netcoreapp2.1\SocialN.API.AssemblyInfo.cs
+C:\Users\Jeff\SocialN\SocialN.API\obj\Debug\netcoreapp2.1\SocialN.API.RazorTargetAssemblyInfo.cache
+C:\Users\Jeff\SocialN\SocialN.API\obj\Debug\netcoreapp2.1\SocialN.API.dll
+C:\Users\Jeff\SocialN\SocialN.API\obj\Debug\netcoreapp2.1\SocialN.API.pdb
